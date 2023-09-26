@@ -9,7 +9,11 @@
 
 
   **Project1: Achive his misson loss funtion is under 3000 (Iteration 10000 : Loss 2791.3945)**
+
+
   **Project2: Achive his misson RMSE value is under 150 (RMSE : 146.688)**
+
+
   **data visualization and screen captured is below**
 
 
