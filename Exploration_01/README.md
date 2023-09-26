@@ -26,7 +26,7 @@
 
   **Most annotations are simple and precise, making it understandable.**
 
-  **All of the charts look easier**
+  **All of the charts look easy**
 
 
   <img width="644" alt="image" src="https://github.com/Chancecatch1/AIFEL_Quest/assets/129345591/ac57ef5b-3e2e-4ec2-89f2-0d26f95add0f">
@@ -35,7 +35,7 @@
 - [ ] 코드가 에러를 유발할 가능성이 없나요?
 
       
-  **A lot of new way of thinking**
+  **Introduce a lot of new way of thinking**
 
 
   <img width="537" alt="image" src="https://github.com/Chancecatch1/AIFEL_Quest/assets/129345591/37b0d77f-93ce-438e-8c7a-bc9c45053ca7">
@@ -45,10 +45,13 @@
   (adjust test size freely)
 
 
+ **It is error free**
+
+
 - [ ] 코드 작성자가 코드를 제대로 이해하고 작성했나요?
 
       
-  **He always checks the type and shape of the Dataframe, which means he understands code flow**
+ **Code maker always checks the type and shape of the Dataframe, which means he understands code flow**
 
 
   <img width="622" alt="image" src="https://github.com/Chancecatch1/AIFEL_Quest/assets/129345591/47db50fd-a6b8-42b4-9658-736ae60f2636">
@@ -56,15 +59,14 @@
 
 - [ ] 코드가 간결한가요?
 
-      
-  **He wrote the code down with clarity**
+ **Code maker wrote the code down with clarity**
 
 
   <img width="507" alt="image" src="https://github.com/Chancecatch1/AIFEL_Quest/assets/129345591/8a294fdb-e47a-4db9-840e-3e954677ede2">
   (if i % 1000 == 0:) -> It is shorter and look better then my code
 
   
-  **Also he complies with the regulation of PEP8**
+  **Also Code maker complies with the regulation of PEP8**
 
 # Feedback
 ```python
