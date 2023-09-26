@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 6th Code Peer Review 
 - coder : Hojae Jeong
-- reviewer : 
+- reviewer : MyungJun Lee
 
 
 # PRT(PeerReviewTemplate) 
