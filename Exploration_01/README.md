@@ -11,10 +11,10 @@
   **Project1: Achive his misson loss funtion is under 3000 (Iteration 10000 : Loss 2791.3945)**
 
 
-  **Project2: Achive his misson RMSE value is under 150 (RMSE : 146.688)**
+  **Project2: he achives misson RMSE value is under 150 (RMSE : 146.688)**
 
 
-  **data visualization and screen captured is below**
+  **Data visualization and screen captured is below**
 
 
   <img width="395" alt="image" src="https://github.com/Chancecatch1/AIFEL_Quest/assets/129345591/2de380fb-1394-4736-8802-f04459fc0329">
