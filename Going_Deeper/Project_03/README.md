@@ -11,7 +11,6 @@
 - []  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 코드에 대한 주석 및 doc sting은 내용에 비해 비교적 부족한 것 같다.
     <img width="776" alt="스크린샷 2023-11-13 오후 5 26 48" src="https://github.com/3n952/AIFEL_Quest/assets/107621083/91199e37-dd01-4a90-88e3-7938746839ab">
-    
     <img width="732" alt="스크린샷 2023-11-13 오후 5 27 01" src="https://github.com/3n952/AIFEL_Quest/assets/107621083/8af8370d-a6e6-4e32-8fc1-80c618a28e01">
 
 
