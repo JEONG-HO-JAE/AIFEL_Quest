@@ -12,7 +12,8 @@
     - 코드에 대한 주석 및 doc sting은 내용에 비해 비교적 부족한 것 같다.
     <img width="776" alt="스크린샷 2023-11-13 오후 5 26 48" src="https://github.com/3n952/AIFEL_Quest/assets/107621083/91199e37-dd01-4a90-88e3-7938746839ab">
     
-    <img width="732" alt="스크린샷 2023-11-13 오후 5 27 01" src="https://github.com/3n952/AIFEL_Quest/assets/107621083/8bd4025a-6835-477a-b926-    e180991d25f5">
+    <img width="732" alt="스크린샷 2023-11-13 오후 5 27 01" src="https://github.com/3n952/AIFEL_Quest/assets/107621083/8af8370d-a6e6-4e32-8fc1-80c618a28e01">
+
 
      
         
