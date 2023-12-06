@@ -12,7 +12,8 @@
 
 - []  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
 
-![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/358d4518-b198-42d3-8022-898f63e7e9e5)
+![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/e5825477-31c1-4935-bc63-16c50147954e)
+
 
 - 주석으로 개념에 대한 이해를 도왔습니다.     
 
