@@ -5,7 +5,8 @@
 # PR(Peer Review)
 - []  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
   
-![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/97d627ed-9f31-4455-acc2-e90302e9cb2d)
+![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/69c175c6-fa11-48ec-a9b8-f1e8fecbc354)
+
 
 - 다 만족하셨습니다.
 
