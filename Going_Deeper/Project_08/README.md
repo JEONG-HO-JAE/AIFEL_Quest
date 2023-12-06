@@ -35,6 +35,7 @@
 - 회고 잘 작성해 주셨습니다.  
 - []  **5. 코드가 간결하고 효율적인가요?**
 
-![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/fd2f925e-f403-4aa5-8aa0-292eccb308ee)
+![image](https://github.com/sujin7822/AIFEL_Quest/assets/122075306/f4a9bf47-6482-4c8b-90bf-95777ed2afe3)
+
 
 - 추론 부분에 함수를 활용하여 효율적으로 코드를 구현하셨습니다.
